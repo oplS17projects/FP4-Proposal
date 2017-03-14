@@ -21,7 +21,17 @@ The idea here is to identify what ideas from the class you will use in carrying 
 
 **Your project will be graded, in part, by the extent to which you adopt approaches from the course into your implementation, _and_ your discussion about this.**
 
-### Data set or other source materials
+### External Technologies
+You are encouraged to develop a project that connects to external systems. Broadly, this includes systems that:
+
+- retrieve information or publish data to the web
+- generate or process sound
+- control robots or other physical systems
+- interact with databases
+
+If your project will do anything in this category, include this section and discuss.
+
+### Data Sets or other Source Materials
 If you will be working with existing data, where will you get those data from? (Dowload from a website? Access in a database? Create in a simulation you will build? ...)
 
 How will you convert your data into a form usable for your project?  
@@ -60,18 +70,18 @@ You will be expected to turn in code, documentation, and data (as appropriate) a
 Write concrete steps for your schedule to move from concept to working system. 
 
 ### First Milestone (Sun Apr 9)
-What exactly will be turned in on this day? 
+Which portion of the work will be completed (and committed to Github) by this day? 
 
 ### Second Milestone (Sun Apr 16)
-What exactly will be turned in on this day? 
+Which portion of the work will be completed (and committed to Github) by this day?  
 
-### Final Presentation (to be determined later: Mon Apr 24, Wed Apr 26, or Fri Apr 28)
-What additionally will be done in the last chunk of time?
+### Public Presentation (Mon Apr 24, Wed Apr 26, or Fri Apr 28 [your date to be determined later])
+What additionally will be completed before the public presentation?
 
 ## Group Responsibilities
 Here each group member gets a section where they, as an individual, detail what they are responsible for in this project. Each group member writes their own Responsibility section. Include the milestones and final deliverable.
 
-Please use Github properly here: each individual must make the edits to this file representing their own section of work.
+Please use Github properly: each individual must make the edits to this file representing their own section of work.
 
 **Additional instructions for teams of three:** 
 * Remember that you must have prior written permission to work in groups of three (specifically, an approved `FP3` team declaration submission).
