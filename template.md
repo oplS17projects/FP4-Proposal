@@ -8,14 +8,18 @@ Explain what approaches from class you will bring to bear on the project.
 
 Be explicit about the techiques from the class that you will use. For example:
 
-- Will you use data abstraction?
+- Will you use data abstraction? How?
 - Will you use recursion? How?
 - Will you use map/filter/reduce? How? 
-- Will you use object-orientation?
-- Will you use functional approaches to processing your data?
-- Will you use state-modification approaches? (If so, this should be encapsulated within objects. `set!` pretty much should only exist inside an object.)
+- Will you use object-orientation? How?
+- Will you use functional approaches to processing your data? How?
+- Will you use state-modification approaches? How?(If so, this should be encapsulated within objects. `set!` pretty much should only exist inside an object.)
+- Will you build an expression evaluator, like we did in the symbolic differentatior and the metacircular evaluator?
+- Will you use lazy evaluation approaches?
 
 The idea here is to identify what ideas from the class you will use in carrying out your project. 
+
+**Your project will be graded, in part, by the extent to which you adopt approaches from the course into your implementation, _and_ your discussion about this.**
 
 ### Data set or other source materials
 If you will be working with existing data, where will you get those data from? (Dowload from a website? Access in a database? Create in a simulation you will build? ...)
