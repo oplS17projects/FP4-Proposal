@@ -6,7 +6,7 @@ Describe your project. Why is it interesting? Why is it interesting to you perso
 ### Analysis
 Explain what approaches from class you will bring to bear on the project.
 
-Be explicit about the techiques from the class that you will use. For example:
+Be explicit about the techniques from the class that you will use. For example:
 
 - Will you use data abstraction? How?
 - Will you use recursion? How?
@@ -14,7 +14,7 @@ Be explicit about the techiques from the class that you will use. For example:
 - Will you use object-orientation? How?
 - Will you use functional approaches to processing your data? How?
 - Will you use state-modification approaches? How?(If so, this should be encapsulated within objects. `set!` pretty much should only exist inside an object.)
-- Will you build an expression evaluator, like we did in the symbolic differentatior and the metacircular evaluator?
+- Will you build an expression evaluator, like we did in the symbolic differentiator and the metacircular evaluator?
 - Will you use lazy evaluation approaches?
 
 The idea here is to identify what ideas from the class you will use in carrying out your project. 
@@ -32,13 +32,13 @@ You are encouraged to develop a project that connects to external systems. Broad
 If your project will do anything in this category, include this section and discuss.
 
 ### Data Sets or other Source Materials
-If you will be working with existing data, where will you get those data from? (Dowload from a website? Access in a database? Create in a simulation you will build? ...)
+If you will be working with existing data, where will you get those data from? (Download from a website? Access in a database? Create in a simulation you will build? ...)
 
 How will you convert your data into a form usable for your project?  
 
 Do your homework here: if you are pulling data from somewhere, actually go download it and look at it. Explain in some detail what your plan is for accomplishing the necessary processing.
 
-If you are using some other starting materails, explain what they are. Basically: anything you plan to use that isn't code.
+If you are using some other starting materials, explain what they are. Basically: anything you plan to use that isn't code.
 
 ### Deliverable and Demonstration
 Explain exactly what you'll have at the end. What will it be able to do at the live demo?
@@ -98,4 +98,5 @@ will write the....
 will work on...
 
 ### Frank Funktions @frankiefunk 
-Frank is team lead. Additionally, Frank will work on...   
+Frank is team lead. Additionally, Frank will work on...  
+
