@@ -4,12 +4,13 @@
 
 **not done yet** links and dates are from a year ago
 
-The project proposal includes these components:
+## tl;dr
 
-1. A repository for the team project
-2. A `README.md` file in this repository, which is the project plan
-3. A new entry of your project title and partners
-4. A 3-slide slide deck to be presented in class
+1. Create a repository in this organization for your project
+2. Author a `README.md` file in this repo, which is the project plan
+3. Make 3-slide slide show to be presented in class
+4. Enter project details into a new [Google form][projform]
+5. Make a 0.0 release of your project (tagging `@fgmart`)
 
 ## Due Date
 * Sun 2016-04-02 at 11p
@@ -34,11 +35,10 @@ Instructions:
 3. Everyone on the team contributes their sections to your `README.md` file.
   * Use GitHub's collaboration features to make sure that each team member contributes meaningful content to the file
   * At the absolute minimum, respective team members must have commits that show they have authored the section describing their planned contributions
-4. Create a [github Release](https://help.github.com/articles/creating-releases/
-) of your repository. 
+4. Create a [github Release](https://help.github.com/articles/creating-releases/) of your repository. 
  * Version: v0.0
  * Title: Proposal
- * Description: tag `@fgmart` or `@marksherman` depending on your section
+ * Description: tag `@fgmart`
 
 And now some detail on what to write _in_ the report.
 
@@ -72,11 +72,15 @@ The presentation shall have exactly three slides:
 
 Make the slides in [Google Slides][gslides].
 
-Then, import your deck into the correct whole-class slide deck:
-* [Martin section][martinslides]
-* [Sherman section][shermanslides]
+Then, import your deck into the [slide deck][martinslides]. You have write privileges based on your membership in the class forum.
 
 You and your teammates will give the presentation in class the day that this assignment is due.
+
+## Fill out Project Information Form
+
+Enter project details into a new [Google form][projform].
+
+**This is absolutely necessary so I can keep track of all of the projects.**
 
 ## Grading
 The proposal must be submitted on time to receive credit. Late submissions will not be accepted for credit.
@@ -85,8 +89,8 @@ You personally must be present in class (and participate in the presentation whe
 
 
 <!-- Links -->
-[forum]: https://groups.google.com/forum/#!forum/uml-opl-spr16
+[forum]: https://groups.google.com/forum/#!forum/uml-opl-spr17
 [markdown]: https://help.github.com/articles/markdown-basics/
 [gslides]:https://slides.google.com
-[martinslides]:https://docs.google.com/presentation/d/1EqE432gl3Narx8a2vZQKvchEmoYqMkzR3SrHFr5LiAg
-[shermanslides]:https://docs.google.com/presentation/d/1T7uZLQLm-umosUfEK9cp4VNGjUm8SUN1DCVTzlGvr2Q
+[martinslides]:https://docs.google.com/presentation/d/1fzNX4nV4z6IkLiVBMB0YD4CctlJxR9pWXSbYTOFcQvc
+[projform]:https://goo.gl/forms/Gfh9hWBgvg323j6M2
