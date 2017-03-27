@@ -1,16 +1,14 @@
 # FP4-proposal
 
-**do not fork this** there will be different directions
-
-**not done yet** links and dates are from a year ago
+**do not fork this** there are different directions
 
 ## tl;dr
 
-1. Create a repository in this organization for your project
-2. Author a `README.md` file in this repo, which is the project plan
-3. Make 3-slide slide show to be presented in class
+1. Create a repository in [our organization][oplorg] for your project; add your teammate(s) as collaborators
+2. Copy-paste this [template file](template.md) as the `README.md` file in your new repo; edit to become project plan
+3. Make 3-slide slide show to be presented in class; insert into [class desk][gslides]
 4. Enter project details into a new [Google form][projform]
-5. Make a 0.0 release of your project (tagging `@fgmart`)
+5. Make a 0.1 release of your project (tagging `@fgmart`)
 
 ## Due Date
 * Sun 2016-04-02 at 11p
@@ -23,18 +21,18 @@ You must start using GitHub collaboratively from this point forward.
 
 Instructions: 
 
-1. Create a new repo as part of the `oplS17projects` organization
-  * Give it a name that you like—may be your real names, usernames, or project name
+1. Create a new repository for your project as part of [our organization][oplorg]
+  * Give it a name that you like—it may be your real names, usernames, or project name
   * Add your teammates as collaborators (Settings > Collaborators & Teams > Add Collaborator)
 2. Copy the content from the [template file](template.md) into your `README.md`
   * Click the “Raw” button on the `template.md` file and then copy-paste into your repo's `README.md` edit view
   * Save it
-  * Then start editing it to be the real thing
+  * *Then start editing it to become your actual proposal*
 3. Everyone on the team contributes their sections to your `README.md` file.
   * Use GitHub's collaboration features to make sure that each team member contributes meaningful content to the file
   * At the absolute minimum, respective team members must have commits that show they have authored the section describing their planned contributions
 4. Create a [github Release](https://help.github.com/articles/creating-releases/) of your repository. 
- * Version: v0.0
+ * Version: v0.1
  * Title: Proposal
  * Description: tag `@fgmart`
 
@@ -92,3 +90,4 @@ You personally must be present in class (and participate in the presentation whe
 [gslides]:https://slides.google.com
 [martinslides]:https://docs.google.com/presentation/d/1fzNX4nV4z6IkLiVBMB0YD4CctlJxR9pWXSbYTOFcQvc
 [projform]:https://goo.gl/forms/Gfh9hWBgvg323j6M2
+[oplorg]:https://github.com/oplS17projects/
