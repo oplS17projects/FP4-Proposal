@@ -15,8 +15,6 @@
 ## Due Date
 * Sun 2016-04-02 at 11p
 
-Ask questions, as always, [on our discussion forum!][forum]
-
 ## Instructions
 
 Teams will submit a single proposal, with sections that each member has done individually detailing their proposed contributions. The submission will be the `README.md` file in your brand-new project repository, which you'll make. 
