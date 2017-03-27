@@ -11,7 +11,7 @@
 5. Make a 0.1 release of your project (tagging `@fgmart`)
 
 ## Due Date
-* Sun 2016-04-02 at 11p
+* Sun Apr 2, 2017 at 11p
 
 ## Instructions
 
