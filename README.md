@@ -23,7 +23,7 @@ You must start using GitHub collaboratively from this point forward.
 
 Instructions: 
 
-1. Create a new repo as part of the `oplS16projects` organization
+1. Create a new repo as part of the `oplS17projects` organization
   * Give it a name that you like—may be your real names, usernames, or project name
   * Add your teammates as collaborators (Settings > Collaborators & Teams > Add Collaborator)
 2. Copy the content from the [template file](template.md) into your `README.md`
