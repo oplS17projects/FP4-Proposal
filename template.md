@@ -32,6 +32,13 @@ You are encouraged to develop a project that connects to external systems. For e
 If your project will do anything in this category (not only the things listed above!), include this section and discuss.
 
 ### Data Sets or other Source Materials
+We downloaded a sample 808 drum kit wav file from these two websites
+http://www.brainybetty.com/soundsforpowerpoint2.htm
+
+http://hiphopmakers.com/free-808-drum-kit-227-samples
+
+
+
 If you will be working with existing data, where will you get those data from? (Dowload from a website? Access in a database? Create in a simulation you will build? ...)
 
 How will you convert your data into a form usable for your project?  
