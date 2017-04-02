@@ -6,7 +6,7 @@
 
 1. Create a repository in [our organization][oplorg] for your project; add your teammate(s) as collaborators
 2. Copy-paste this [template file](template.md) as the `README.md` file in your new repo; edit to become project plan
-3. Make 3-slide slide show to be presented in class; insert into [class desk][gslides]
+3. Make 3-slide slide show to be presented in class; insert into [class desk][martinslides]
 4. Enter project details into a new [Google form][projform]
 5. Make a 0.1 release of your project (tagging `@fgmart`)
 
